@@ -1,0 +1,51 @@
+export function getUserInfoQueryStr(username) {
+    return(
+      `userInfoOptions : getUserInfoOptions(username: "${username}") {
+        id
+        address
+        email
+        facebook_metainfo
+        fullname
+        phone
+        addressbanknamebranchvietnam
+        banknamebranchvietnam
+        banknamevietnam
+        birthday
+        companyinfo
+        fullnamejapan
+        namelastaddress
+        nameunsigned
+        nenkincode
+        nobank
+        nozip
+        avatar_user
+        is_admin_role
+        nenskin_frontcard
+        nenkins_passport
+        nenkins_image
+        nenkins_bank_images
+        hoanthue_gensen
+        hoanthue_transfer_images
+        hoanthue_giaytoquanhe_images
+        hoanthue_passport
+        hoanthue_mynumber_images
+        hoanthue_sotttaikhoan_images
+        hoanthue_ngoaikieu_images
+        hoso_current_step
+        hoso_verified
+        hoso_notifications
+        refund_nenkin_no3
+        hoso_confirm_nenkin {
+          no
+          status
+          url_confirmed
+        }
+        hoso_session {
+          session_status
+          session_started
+          session_expired
+          expired
+        }
+      }`
+    );
+  }

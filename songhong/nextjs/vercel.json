@@ -1,0 +1,25 @@
+{
+    "redirects": [
+      { "source": "/ve-chung-toi", "destination": "/about" },
+      { "source": "/vi/ve-chung-toi", "destination": "/about" },
+      { "source": "/ja/ve-chung-toi-jp", "destination": "/ja/about" },
+      { "source": "/tinh-tien-nenkin-thue/tinh-tien-nenkin", "destination": "/tinh-tien/nenkins" },
+      { "source": "/vi/tinh-tien-nenkin-thue/tinh-tien-nenkin", "destination": "/tinh-tien/nenkins" },
+      { "source": "/ja/tinh-tien-nenkin-thue-jp/tinh-tien-nenkin-jp", "destination": "/ja/tinh-tien/nenkins" },
+      { "source": "/tinh-tien-nenkin-thue/tinh-tien-hoan-thue", "destination": "/tinh-tien/hoan-thue" },
+      { "source": "/vi/tinh-tien-nenkin-thue/tinh-tien-hoan-thue", "destination": "/tinh-tien/hoan-thue" },
+      { "source": "/ja/tinh-tien-nenkin-thue-jp/tinh-tien-hoan-thue-jp", "destination": "/ja/tinh-tien/hoan-thue" },
+      { "source": "/ja/danh-muc-dichvu/:slug", "destination": "/ja/services/category/:slug" },
+      { "source": "/ja/bang-gia-jp/:slug", "destination": "/ja/bang-gia/:slug" },
+      { "source": "/ja/danh-muc/:slug", "destination": "/ja/tin-tuc/category/:slug" },
+      { "source": "/ja/hoat-dong-xa-hoi-jp", "destination": "/ja/hoat-dong-xa-hoi" },
+      { "source": "/lien-he", "destination": "/contact" },
+      { "source": "/vi/lien-he", "destination": "/contact" },
+      { "source": "/ja/lien-he-jp", "destination": "/ja/contact" },
+      { "source": "/ja/dang-nhap-jp", "destination": "/ja/dang-nhap" },
+      { "source": "/ja/dang-ky-jp", "destination": "/ja/dang-ky" },
+      { "source": "/cau-hoi-thuong-gap", "destination": "/qa" },
+      { "source": "/vi/cau-hoi-thuong-gap", "destination": "/qa" },
+      { "source": "/ja/cau-hoi-thuong-gap-jp", "destination": "/ja/qa" }
+    ]
+}

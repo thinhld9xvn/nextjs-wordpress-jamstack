@@ -1,0 +1,10 @@
+{
+    "apps": [
+      {
+        "name": "nhavietdesignvn",
+        "script": "npm",
+        "args": "start"
+      }
+    ]
+  }
+  

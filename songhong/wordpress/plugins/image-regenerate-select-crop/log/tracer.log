@@ -1,0 +1,2642 @@
+<li><em>2023-01-11 03:14:56</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1607} )</li>
+<li><em>2023-01-11 03:14:56</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1607} )</li>
+<li><em>2023-01-11 03:14:55</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1607,"size_name":"article_background"} )</li>
+<li><em>2023-01-11 03:14:55</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1607,"size_name":"large"} )</li>
+<li><em>2023-01-11 03:14:54</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1607,"size_name":"medium_large"} )</li>
+<li><em>2023-01-11 03:14:54</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1607,"size_name":"medium"} )</li>
+<li><em>2023-01-11 03:14:54</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1607,"size_name":"thumbnail"} )</li>
+<li><em>2023-01-11 03:03:51</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1606} )</li>
+<li><em>2023-01-11 03:03:51</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1606} )</li>
+<li><em>2023-01-11 03:03:50</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1606,"size_name":"article_background"} )</li>
+<li><em>2023-01-11 03:03:50</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1606,"size_name":"large"} )</li>
+<li><em>2023-01-11 03:03:49</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1606,"size_name":"medium_large"} )</li>
+<li><em>2023-01-11 03:03:49</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1606,"size_name":"medium"} )</li>
+<li><em>2023-01-11 03:03:49</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1606,"size_name":"thumbnail"} )</li>
+<li><em>2023-01-11 03:03:44</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1605} )</li>
+<li><em>2023-01-11 03:03:44</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1605} )</li>
+<li><em>2023-01-11 03:03:43</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1605,"size_name":"article_background"} )</li>
+<li><em>2023-01-11 03:03:42</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1605,"size_name":"large"} )</li>
+<li><em>2023-01-11 03:03:42</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1605,"size_name":"medium_large"} )</li>
+<li><em>2023-01-11 03:03:42</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1605,"size_name":"medium"} )</li>
+<li><em>2023-01-11 03:03:42</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1605,"size_name":"thumbnail"} )</li>
+<li><em>2023-01-11 03:03:36</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1604} )</li>
+<li><em>2023-01-11 03:03:36</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1604} )</li>
+<li><em>2023-01-11 03:03:35</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1604,"size_name":"article_background"} )</li>
+<li><em>2023-01-11 03:03:35</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1604,"size_name":"large"} )</li>
+<li><em>2023-01-11 03:03:34</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1604,"size_name":"medium_large"} )</li>
+<li><em>2023-01-11 03:03:34</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1604,"size_name":"medium"} )</li>
+<li><em>2023-01-11 03:03:34</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1604,"size_name":"thumbnail"} )</li>
+<li><em>2023-01-11 03:03:28</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1603} )</li>
+<li><em>2023-01-11 03:03:28</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1603} )</li>
+<li><em>2023-01-11 03:03:27</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1603,"size_name":"article_background"} )</li>
+<li><em>2023-01-11 03:03:27</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1603,"size_name":"large"} )</li>
+<li><em>2023-01-11 03:03:27</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1603,"size_name":"medium_large"} )</li>
+<li><em>2023-01-11 03:03:27</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1603,"size_name":"medium"} )</li>
+<li><em>2023-01-11 03:03:26</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1603,"size_name":"thumbnail"} )</li>
+<li><em>2023-01-11 03:03:21</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1602} )</li>
+<li><em>2023-01-11 03:03:21</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1602} )</li>
+<li><em>2023-01-11 03:03:20</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1602,"size_name":"article_background"} )</li>
+<li><em>2023-01-11 03:03:20</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1602,"size_name":"large"} )</li>
+<li><em>2023-01-11 03:03:19</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1602,"size_name":"medium_large"} )</li>
+<li><em>2023-01-11 03:03:19</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1602,"size_name":"medium"} )</li>
+<li><em>2023-01-11 03:03:19</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1602,"size_name":"thumbnail"} )</li>
+<li><em>2023-01-11 03:03:14</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1601} )</li>
+<li><em>2023-01-11 03:03:14</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1601} )</li>
+<li><em>2023-01-11 03:03:13</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1601,"size_name":"article_background"} )</li>
+<li><em>2023-01-11 03:03:13</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1601,"size_name":"large"} )</li>
+<li><em>2023-01-11 03:03:12</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1601,"size_name":"medium_large"} )</li>
+<li><em>2023-01-11 03:03:12</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1601,"size_name":"medium"} )</li>
+<li><em>2023-01-11 03:03:12</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1601,"size_name":"thumbnail"} )</li>
+<li><em>2023-01-11 03:03:06</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1600} )</li>
+<li><em>2023-01-11 03:03:06</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1600} )</li>
+<li><em>2023-01-11 03:03:05</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1600,"size_name":"article_background"} )</li>
+<li><em>2023-01-11 03:03:05</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1600,"size_name":"large"} )</li>
+<li><em>2023-01-11 03:03:05</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1600,"size_name":"medium_large"} )</li>
+<li><em>2023-01-11 03:03:04</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1600,"size_name":"medium"} )</li>
+<li><em>2023-01-11 03:03:04</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1600,"size_name":"thumbnail"} )</li>
+<li><em>2023-01-11 03:01:56</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1599} )</li>
+<li><em>2023-01-11 03:01:56</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1599} )</li>
+<li><em>2023-01-11 03:01:55</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1599,"size_name":"article_background"} )</li>
+<li><em>2023-01-11 03:01:55</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1599,"size_name":"large"} )</li>
+<li><em>2023-01-11 03:01:54</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1599,"size_name":"medium_large"} )</li>
+<li><em>2023-01-11 03:01:54</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1599,"size_name":"medium"} )</li>
+<li><em>2023-01-11 03:01:54</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1599,"size_name":"thumbnail"} )</li>
+<li><em>2023-01-11 03:01:48</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1598} )</li>
+<li><em>2023-01-11 03:01:48</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1598} )</li>
+<li><em>2023-01-11 03:01:47</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1598,"size_name":"article_background"} )</li>
+<li><em>2023-01-11 03:01:47</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1598,"size_name":"large"} )</li>
+<li><em>2023-01-11 03:01:47</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1598,"size_name":"medium_large"} )</li>
+<li><em>2023-01-11 03:01:46</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1598,"size_name":"medium"} )</li>
+<li><em>2023-01-11 03:01:46</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1598,"size_name":"thumbnail"} )</li>
+<li><em>2023-01-11 03:01:41</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1597} )</li>
+<li><em>2023-01-11 03:01:41</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1597} )</li>
+<li><em>2023-01-11 03:01:40</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1597,"size_name":"article_background"} )</li>
+<li><em>2023-01-11 03:01:40</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1597,"size_name":"large"} )</li>
+<li><em>2023-01-11 03:01:39</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1597,"size_name":"medium_large"} )</li>
+<li><em>2023-01-11 03:01:39</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1597,"size_name":"medium"} )</li>
+<li><em>2023-01-11 03:01:39</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1597,"size_name":"thumbnail"} )</li>
+<li><em>2023-01-11 03:00:46</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1596} )</li>
+<li><em>2023-01-11 03:00:46</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1596} )</li>
+<li><em>2023-01-11 03:00:45</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1596,"size_name":"article_background"} )</li>
+<li><em>2023-01-11 03:00:44</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1596,"size_name":"large"} )</li>
+<li><em>2023-01-11 03:00:44</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1596,"size_name":"medium_large"} )</li>
+<li><em>2023-01-11 03:00:44</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1596,"size_name":"medium"} )</li>
+<li><em>2023-01-11 03:00:44</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1596,"size_name":"thumbnail"} )</li>
+<li><em>2023-01-11 03:00:38</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1595} )</li>
+<li><em>2023-01-11 03:00:38</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1595} )</li>
+<li><em>2023-01-11 03:00:37</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1595,"size_name":"article_background"} )</li>
+<li><em>2023-01-11 03:00:37</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1595,"size_name":"large"} )</li>
+<li><em>2023-01-11 03:00:37</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1595,"size_name":"medium_large"} )</li>
+<li><em>2023-01-11 03:00:36</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1595,"size_name":"medium"} )</li>
+<li><em>2023-01-11 03:00:36</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1595,"size_name":"thumbnail"} )</li>
+<li><em>2023-01-11 03:00:31</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1594} )</li>
+<li><em>2023-01-11 03:00:31</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1594} )</li>
+<li><em>2023-01-11 03:00:30</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1594,"size_name":"article_background"} )</li>
+<li><em>2023-01-11 03:00:30</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1594,"size_name":"large"} )</li>
+<li><em>2023-01-11 03:00:29</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1594,"size_name":"medium_large"} )</li>
+<li><em>2023-01-11 03:00:29</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1594,"size_name":"medium"} )</li>
+<li><em>2023-01-11 03:00:29</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1594,"size_name":"thumbnail"} )</li>
+<li><em>2023-01-11 03:00:05</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1593} )</li>
+<li><em>2023-01-11 03:00:05</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1593} )</li>
+<li><em>2023-01-11 03:00:04</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1593,"size_name":"article_background"} )</li>
+<li><em>2023-01-11 03:00:04</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1593,"size_name":"large"} )</li>
+<li><em>2023-01-11 03:00:03</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1593,"size_name":"medium_large"} )</li>
+<li><em>2023-01-11 03:00:03</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1593,"size_name":"medium"} )</li>
+<li><em>2023-01-11 03:00:03</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1593,"size_name":"thumbnail"} )</li>
+<li><em>2023-01-11 02:59:57</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1592} )</li>
+<li><em>2023-01-11 02:59:57</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1592} )</li>
+<li><em>2023-01-11 02:59:56</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1592,"size_name":"article_background"} )</li>
+<li><em>2023-01-11 02:59:56</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1592,"size_name":"large"} )</li>
+<li><em>2023-01-11 02:59:56</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1592,"size_name":"medium_large"} )</li>
+<li><em>2023-01-11 02:59:55</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1592,"size_name":"medium"} )</li>
+<li><em>2023-01-11 02:59:55</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1592,"size_name":"thumbnail"} )</li>
+<li><em>2023-01-11 02:59:49</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1591} )</li>
+<li><em>2023-01-11 02:59:49</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1591} )</li>
+<li><em>2023-01-11 02:59:48</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1591,"size_name":"article_background"} )</li>
+<li><em>2023-01-11 02:59:48</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1591,"size_name":"large"} )</li>
+<li><em>2023-01-11 02:59:48</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1591,"size_name":"medium_large"} )</li>
+<li><em>2023-01-11 02:59:48</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1591,"size_name":"medium"} )</li>
+<li><em>2023-01-11 02:59:47</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1591,"size_name":"thumbnail"} )</li>
+<li><em>2023-01-11 02:59:22</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1590} )</li>
+<li><em>2023-01-11 02:59:22</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1590} )</li>
+<li><em>2023-01-11 02:59:21</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1590,"size_name":"article_background"} )</li>
+<li><em>2023-01-11 02:59:21</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1590,"size_name":"large"} )</li>
+<li><em>2023-01-11 02:59:21</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1590,"size_name":"medium_large"} )</li>
+<li><em>2023-01-11 02:59:21</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1590,"size_name":"medium"} )</li>
+<li><em>2023-01-11 02:59:20</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1590,"size_name":"thumbnail"} )</li>
+<li><em>2023-01-11 02:59:15</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1589} )</li>
+<li><em>2023-01-11 02:59:15</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1589} )</li>
+<li><em>2023-01-11 02:59:14</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1589,"size_name":"article_background"} )</li>
+<li><em>2023-01-11 02:59:14</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1589,"size_name":"large"} )</li>
+<li><em>2023-01-11 02:59:14</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1589,"size_name":"medium_large"} )</li>
+<li><em>2023-01-11 02:59:13</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1589,"size_name":"medium"} )</li>
+<li><em>2023-01-11 02:59:13</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1589,"size_name":"thumbnail"} )</li>
+<li><em>2023-01-11 02:58:45</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1588} )</li>
+<li><em>2023-01-11 02:58:45</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1588} )</li>
+<li><em>2023-01-11 02:58:44</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1588,"size_name":"article_background"} )</li>
+<li><em>2023-01-11 02:58:44</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1588,"size_name":"large"} )</li>
+<li><em>2023-01-11 02:58:44</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1588,"size_name":"medium_large"} )</li>
+<li><em>2023-01-11 02:58:43</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1588,"size_name":"medium"} )</li>
+<li><em>2023-01-11 02:58:43</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1588,"size_name":"thumbnail"} )</li>
+<li><em>2023-01-11 02:58:38</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1587} )</li>
+<li><em>2023-01-11 02:58:38</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1587} )</li>
+<li><em>2023-01-11 02:58:37</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1587,"size_name":"article_background"} )</li>
+<li><em>2023-01-11 02:58:37</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1587,"size_name":"large"} )</li>
+<li><em>2023-01-11 02:58:36</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1587,"size_name":"medium_large"} )</li>
+<li><em>2023-01-11 02:58:36</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1587,"size_name":"medium"} )</li>
+<li><em>2023-01-11 02:58:36</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1587,"size_name":"thumbnail"} )</li>
+<li><em>2023-01-11 02:52:51</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1586} )</li>
+<li><em>2023-01-11 02:52:51</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1586} )</li>
+<li><em>2023-01-11 02:52:50</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1586,"size_name":"article_background"} )</li>
+<li><em>2023-01-11 02:52:50</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1586,"size_name":"large"} )</li>
+<li><em>2023-01-11 02:52:49</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1586,"size_name":"medium_large"} )</li>
+<li><em>2023-01-11 02:52:49</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1586,"size_name":"medium"} )</li>
+<li><em>2023-01-11 02:52:49</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1586,"size_name":"thumbnail"} )</li>
+<li><em>2023-01-11 02:52:43</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1585} )</li>
+<li><em>2023-01-11 02:52:43</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1585} )</li>
+<li><em>2023-01-11 02:52:42</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1585,"size_name":"article_background"} )</li>
+<li><em>2023-01-11 02:52:42</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1585,"size_name":"large"} )</li>
+<li><em>2023-01-11 02:52:41</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1585,"size_name":"medium_large"} )</li>
+<li><em>2023-01-11 02:52:41</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1585,"size_name":"medium"} )</li>
+<li><em>2023-01-11 02:52:41</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1585,"size_name":"thumbnail"} )</li>
+<li><em>2023-01-11 02:52:36</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1584} )</li>
+<li><em>2023-01-11 02:52:36</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1584} )</li>
+<li><em>2023-01-11 02:52:35</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1584,"size_name":"article_background"} )</li>
+<li><em>2023-01-11 02:52:34</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1584,"size_name":"large"} )</li>
+<li><em>2023-01-11 02:52:34</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1584,"size_name":"medium_large"} )</li>
+<li><em>2023-01-11 02:52:34</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1584,"size_name":"medium"} )</li>
+<li><em>2023-01-11 02:52:33</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1584,"size_name":"thumbnail"} )</li>
+<li><em>2023-01-11 02:52:28</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1583} )</li>
+<li><em>2023-01-11 02:52:28</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1583} )</li>
+<li><em>2023-01-11 02:52:27</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1583,"size_name":"article_background"} )</li>
+<li><em>2023-01-11 02:52:27</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1583,"size_name":"large"} )</li>
+<li><em>2023-01-11 02:52:27</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1583,"size_name":"medium_large"} )</li>
+<li><em>2023-01-11 02:52:26</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1583,"size_name":"medium"} )</li>
+<li><em>2023-01-11 02:52:26</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1583,"size_name":"thumbnail"} )</li>
+<li><em>2023-01-11 02:51:38</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1582} )</li>
+<li><em>2023-01-11 02:51:38</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1582} )</li>
+<li><em>2023-01-11 02:51:37</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1582,"size_name":"article_background"} )</li>
+<li><em>2023-01-11 02:51:37</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1582,"size_name":"large"} )</li>
+<li><em>2023-01-11 02:51:37</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1582,"size_name":"medium_large"} )</li>
+<li><em>2023-01-11 02:51:36</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1582,"size_name":"medium"} )</li>
+<li><em>2023-01-11 02:51:36</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1582,"size_name":"thumbnail"} )</li>
+<li><em>2023-01-11 02:38:45</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2023-01-11 02:34:51</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1581} )</li>
+<li><em>2023-01-11 02:34:51</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1581} )</li>
+<li><em>2023-01-11 02:34:50</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1581,"size_name":"article_background"} )</li>
+<li><em>2023-01-11 02:34:49</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1581,"size_name":"large"} )</li>
+<li><em>2023-01-11 02:34:49</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1581,"size_name":"medium_large"} )</li>
+<li><em>2023-01-11 02:34:49</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1581,"size_name":"medium"} )</li>
+<li><em>2023-01-11 02:34:49</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1581,"size_name":"thumbnail"} )</li>
+<li><em>2023-01-11 02:07:28</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1580} )</li>
+<li><em>2023-01-11 02:07:28</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1580} )</li>
+<li><em>2023-01-11 02:07:27</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1580,"size_name":"article_background"} )</li>
+<li><em>2023-01-11 02:07:27</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1580,"size_name":"large"} )</li>
+<li><em>2023-01-11 02:07:27</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1580,"size_name":"medium_large"} )</li>
+<li><em>2023-01-11 02:07:26</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1580,"size_name":"medium"} )</li>
+<li><em>2023-01-11 02:07:26</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1580,"size_name":"thumbnail"} )</li>
+<li><em>2023-01-11 02:07:21</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1579} )</li>
+<li><em>2023-01-11 02:07:21</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1579} )</li>
+<li><em>2023-01-11 02:07:20</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1579,"size_name":"article_background"} )</li>
+<li><em>2023-01-11 02:07:19</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1579,"size_name":"large"} )</li>
+<li><em>2023-01-11 02:07:19</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1579,"size_name":"medium_large"} )</li>
+<li><em>2023-01-11 02:07:19</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1579,"size_name":"medium"} )</li>
+<li><em>2023-01-11 02:07:19</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1579,"size_name":"thumbnail"} )</li>
+<li><em>2023-01-11 02:07:13</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1578} )</li>
+<li><em>2023-01-11 02:07:13</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1578} )</li>
+<li><em>2023-01-11 02:07:13</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1578,"size_name":"article_background"} )</li>
+<li><em>2023-01-11 02:07:12</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1578,"size_name":"large"} )</li>
+<li><em>2023-01-11 02:07:12</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1578,"size_name":"medium_large"} )</li>
+<li><em>2023-01-11 02:07:12</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1578,"size_name":"medium"} )</li>
+<li><em>2023-01-11 02:07:11</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1578,"size_name":"thumbnail"} )</li>
+<li><em>2023-01-11 02:07:06</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1577} )</li>
+<li><em>2023-01-11 02:07:06</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1577} )</li>
+<li><em>2023-01-11 02:07:05</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1577,"size_name":"article_background"} )</li>
+<li><em>2023-01-11 02:07:05</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1577,"size_name":"large"} )</li>
+<li><em>2023-01-11 02:07:05</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1577,"size_name":"medium_large"} )</li>
+<li><em>2023-01-11 02:07:04</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1577,"size_name":"medium"} )</li>
+<li><em>2023-01-11 02:07:04</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1577,"size_name":"thumbnail"} )</li>
+<li><em>2023-01-11 02:06:59</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1576} )</li>
+<li><em>2023-01-11 02:06:59</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1576} )</li>
+<li><em>2023-01-11 02:06:58</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1576,"size_name":"article_background"} )</li>
+<li><em>2023-01-11 02:06:58</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1576,"size_name":"large"} )</li>
+<li><em>2023-01-11 02:06:57</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1576,"size_name":"medium_large"} )</li>
+<li><em>2023-01-11 02:06:57</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1576,"size_name":"medium"} )</li>
+<li><em>2023-01-11 02:06:57</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1576,"size_name":"thumbnail"} )</li>
+<li><em>2023-01-11 02:06:50</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1575} )</li>
+<li><em>2023-01-11 02:06:50</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1575} )</li>
+<li><em>2023-01-11 02:06:49</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1575,"size_name":"article_background"} )</li>
+<li><em>2023-01-11 02:06:49</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1575,"size_name":"large"} )</li>
+<li><em>2023-01-11 02:06:48</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1575,"size_name":"medium_large"} )</li>
+<li><em>2023-01-11 02:06:48</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1575,"size_name":"medium"} )</li>
+<li><em>2023-01-11 02:06:48</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1575,"size_name":"thumbnail"} )</li>
+<li><em>2023-01-04 10:42:07</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"page","parent_id":0,"parent_type":""} )</li>
+<li><em>2023-01-04 10:39:56</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"page","parent_id":0,"parent_type":""} )</li>
+<li><em>2023-01-04 10:39:43</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"page","parent_id":0,"parent_type":""} )</li>
+<li><em>2023-01-04 10:08:43</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"page","parent_id":0,"parent_type":""} )</li>
+<li><em>2023-01-04 10:07:20</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"page","parent_id":0,"parent_type":""} )</li>
+<li><em>2023-01-04 10:06:59</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"page","parent_id":0,"parent_type":""} )</li>
+<li><em>2023-01-04 10:06:19</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"page","parent_id":0,"parent_type":""} )</li>
+<li><em>2023-01-04 10:06:00</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"page","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 13:53:44</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1554} )</li>
+<li><em>2022-12-25 13:53:44</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1554} )</li>
+<li><em>2022-12-25 13:53:43</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1554,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 13:53:43</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1554,"size_name":"large"} )</li>
+<li><em>2022-12-25 13:53:43</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1554,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 13:53:42</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1554,"size_name":"medium"} )</li>
+<li><em>2022-12-25 13:53:42</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1554,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 13:53:40</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1553} )</li>
+<li><em>2022-12-25 13:53:40</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1553} )</li>
+<li><em>2022-12-25 13:53:39</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1553,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 13:53:39</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1553,"size_name":"large"} )</li>
+<li><em>2022-12-25 13:53:38</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1553,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 13:53:38</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1553,"size_name":"medium"} )</li>
+<li><em>2022-12-25 13:53:38</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1553,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 13:52:57</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1552} )</li>
+<li><em>2022-12-25 13:52:57</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1552} )</li>
+<li><em>2022-12-25 13:52:56</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1552,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 13:52:56</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1552,"size_name":"large"} )</li>
+<li><em>2022-12-25 13:52:55</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1552,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 13:52:55</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1552,"size_name":"medium"} )</li>
+<li><em>2022-12-25 13:52:55</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1552,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 13:52:52</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1551} )</li>
+<li><em>2022-12-25 13:52:52</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1551} )</li>
+<li><em>2022-12-25 13:52:51</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1551,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 13:52:51</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1551,"size_name":"large"} )</li>
+<li><em>2022-12-25 13:52:51</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1551,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 13:52:50</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1551,"size_name":"medium"} )</li>
+<li><em>2022-12-25 13:52:50</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1551,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 13:52:48</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1550} )</li>
+<li><em>2022-12-25 13:52:48</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1550} )</li>
+<li><em>2022-12-25 13:52:47</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1550,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 13:52:47</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1550,"size_name":"large"} )</li>
+<li><em>2022-12-25 13:52:46</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1550,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 13:52:46</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1550,"size_name":"medium"} )</li>
+<li><em>2022-12-25 13:52:46</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1550,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 13:52:43</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1549} )</li>
+<li><em>2022-12-25 13:52:43</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1549} )</li>
+<li><em>2022-12-25 13:52:42</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1549,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 13:52:42</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1549,"size_name":"large"} )</li>
+<li><em>2022-12-25 13:52:42</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1549,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 13:52:42</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1549,"size_name":"medium"} )</li>
+<li><em>2022-12-25 13:52:41</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1549,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 12:55:15</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 12:54:50</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 12:54:40</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1548} )</li>
+<li><em>2022-12-25 12:54:40</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1548} )</li>
+<li><em>2022-12-25 12:54:29</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1547} )</li>
+<li><em>2022-12-25 12:54:29</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1547} )</li>
+<li><em>2022-12-25 12:54:28</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1547,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 12:54:28</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1547,"size_name":"medium"} )</li>
+<li><em>2022-12-25 12:54:28</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1547,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 12:54:26</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1546} )</li>
+<li><em>2022-12-25 12:54:26</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1546} )</li>
+<li><em>2022-12-25 12:54:15</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 12:52:54</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 12:52:47</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1545} )</li>
+<li><em>2022-12-25 12:52:47</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1545} )</li>
+<li><em>2022-12-25 12:52:44</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1544} )</li>
+<li><em>2022-12-25 12:52:44</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1544} )</li>
+<li><em>2022-12-25 12:43:14</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1543} )</li>
+<li><em>2022-12-25 12:43:14</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1543} )</li>
+<li><em>2022-12-25 12:43:12</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1542} )</li>
+<li><em>2022-12-25 12:43:12</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1542} )</li>
+<li><em>2022-12-25 12:42:05</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1541} )</li>
+<li><em>2022-12-25 12:42:05</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1541} )</li>
+<li><em>2022-12-25 12:42:03</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1540} )</li>
+<li><em>2022-12-25 12:42:03</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1540} )</li>
+<li><em>2022-12-25 12:40:51</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1539} )</li>
+<li><em>2022-12-25 12:40:51</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1539} )</li>
+<li><em>2022-12-25 12:40:49</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1538} )</li>
+<li><em>2022-12-25 12:40:49</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1538} )</li>
+<li><em>2022-12-25 12:39:14</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1537} )</li>
+<li><em>2022-12-25 12:39:14</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1537} )</li>
+<li><em>2022-12-25 12:38:42</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1536} )</li>
+<li><em>2022-12-25 12:38:42</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1536} )</li>
+<li><em>2022-12-25 12:35:56</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1535} )</li>
+<li><em>2022-12-25 12:35:56</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1535} )</li>
+<li><em>2022-12-25 12:34:10</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1534} )</li>
+<li><em>2022-12-25 12:34:10</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1534} )</li>
+<li><em>2022-12-25 12:33:56</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1533} )</li>
+<li><em>2022-12-25 12:33:56</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1533} )</li>
+<li><em>2022-12-25 12:32:41</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1532} )</li>
+<li><em>2022-12-25 12:32:41</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1532} )</li>
+<li><em>2022-12-25 12:32:39</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1531} )</li>
+<li><em>2022-12-25 12:32:39</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1531} )</li>
+<li><em>2022-12-25 12:31:17</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1530} )</li>
+<li><em>2022-12-25 12:31:17</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1530} )</li>
+<li><em>2022-12-25 12:31:15</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1529} )</li>
+<li><em>2022-12-25 12:31:15</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1529} )</li>
+<li><em>2022-12-25 12:31:12</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1528} )</li>
+<li><em>2022-12-25 12:31:12</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1528} )</li>
+<li><em>2022-12-25 12:25:05</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1527} )</li>
+<li><em>2022-12-25 12:25:05</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1527} )</li>
+<li><em>2022-12-25 12:25:03</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1526} )</li>
+<li><em>2022-12-25 12:25:03</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1526} )</li>
+<li><em>2022-12-25 12:25:01</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1525} )</li>
+<li><em>2022-12-25 12:25:01</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1525} )</li>
+<li><em>2022-12-25 12:22:28</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1524} )</li>
+<li><em>2022-12-25 12:22:28</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1524} )</li>
+<li><em>2022-12-25 12:21:41</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1523} )</li>
+<li><em>2022-12-25 12:21:41</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1523} )</li>
+<li><em>2022-12-25 12:21:32</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 12:21:23</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 12:19:38</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1522} )</li>
+<li><em>2022-12-25 12:19:38</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1522} )</li>
+<li><em>2022-12-25 12:16:06</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 12:15:15</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1521} )</li>
+<li><em>2022-12-25 12:15:15</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1521} )</li>
+<li><em>2022-12-25 12:10:12</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1520} )</li>
+<li><em>2022-12-25 12:10:12</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1520} )</li>
+<li><em>2022-12-25 12:10:10</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1519} )</li>
+<li><em>2022-12-25 12:10:10</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1519} )</li>
+<li><em>2022-12-25 12:10:08</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1518} )</li>
+<li><em>2022-12-25 12:10:08</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1518} )</li>
+<li><em>2022-12-25 12:09:21</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1517} )</li>
+<li><em>2022-12-25 12:09:21</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1517} )</li>
+<li><em>2022-12-25 12:07:28</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1516} )</li>
+<li><em>2022-12-25 12:07:28</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1516} )</li>
+<li><em>2022-12-25 12:06:47</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1515} )</li>
+<li><em>2022-12-25 12:06:47</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1515} )</li>
+<li><em>2022-12-25 12:05:34</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1514} )</li>
+<li><em>2022-12-25 12:05:34</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1514} )</li>
+<li><em>2022-12-25 12:04:26</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1513} )</li>
+<li><em>2022-12-25 12:04:26</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1513} )</li>
+<li><em>2022-12-25 12:02:03</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1512} )</li>
+<li><em>2022-12-25 12:02:03</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1512} )</li>
+<li><em>2022-12-25 12:00:41</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1511} )</li>
+<li><em>2022-12-25 12:00:41</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1511} )</li>
+<li><em>2022-12-25 12:00:39</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1510} )</li>
+<li><em>2022-12-25 12:00:39</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1510} )</li>
+<li><em>2022-12-25 11:59:21</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1509} )</li>
+<li><em>2022-12-25 11:59:21</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1509} )</li>
+<li><em>2022-12-25 11:59:19</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1508} )</li>
+<li><em>2022-12-25 11:59:19</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1508} )</li>
+<li><em>2022-12-25 11:58:42</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1507} )</li>
+<li><em>2022-12-25 11:58:42</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1507} )</li>
+<li><em>2022-12-25 11:58:40</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1506} )</li>
+<li><em>2022-12-25 11:58:40</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1506} )</li>
+<li><em>2022-12-25 11:54:17</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1505} )</li>
+<li><em>2022-12-25 11:54:17</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1505} )</li>
+<li><em>2022-12-25 11:54:15</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1504} )</li>
+<li><em>2022-12-25 11:54:15</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1504} )</li>
+<li><em>2022-12-25 11:53:58</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1503} )</li>
+<li><em>2022-12-25 11:53:58</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1503} )</li>
+<li><em>2022-12-25 11:53:56</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1502} )</li>
+<li><em>2022-12-25 11:53:56</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1502} )</li>
+<li><em>2022-12-25 11:52:03</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1501} )</li>
+<li><em>2022-12-25 11:52:03</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1501} )</li>
+<li><em>2022-12-25 11:52:01</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1501,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 11:52:01</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1501,"size_name":"large"} )</li>
+<li><em>2022-12-25 11:52:01</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1501,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 11:52:00</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1501,"size_name":"medium"} )</li>
+<li><em>2022-12-25 11:52:00</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1501,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 11:51:58</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1500} )</li>
+<li><em>2022-12-25 11:51:58</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1500} )</li>
+<li><em>2022-12-25 11:51:57</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1500,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 11:51:57</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1500,"size_name":"large"} )</li>
+<li><em>2022-12-25 11:51:56</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1500,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 11:51:56</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1500,"size_name":"medium"} )</li>
+<li><em>2022-12-25 11:51:56</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1500,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 11:49:30</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1499} )</li>
+<li><em>2022-12-25 11:49:30</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1499} )</li>
+<li><em>2022-12-25 11:49:29</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1499,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 11:49:29</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1499,"size_name":"large"} )</li>
+<li><em>2022-12-25 11:49:28</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1499,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 11:49:28</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1499,"size_name":"medium"} )</li>
+<li><em>2022-12-25 11:49:28</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1499,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 11:49:26</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1498} )</li>
+<li><em>2022-12-25 11:49:26</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1498} )</li>
+<li><em>2022-12-25 11:49:24</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1498,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 11:49:24</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1498,"size_name":"large"} )</li>
+<li><em>2022-12-25 11:49:24</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1498,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 11:49:24</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1498,"size_name":"medium"} )</li>
+<li><em>2022-12-25 11:49:23</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1498,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 11:48:07</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1497} )</li>
+<li><em>2022-12-25 11:48:07</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1497} )</li>
+<li><em>2022-12-25 11:48:06</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1497,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 11:48:06</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1497,"size_name":"large"} )</li>
+<li><em>2022-12-25 11:48:06</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1497,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 11:48:05</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1497,"size_name":"medium"} )</li>
+<li><em>2022-12-25 11:48:05</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1497,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 11:48:03</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1496} )</li>
+<li><em>2022-12-25 11:48:03</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1496} )</li>
+<li><em>2022-12-25 11:48:02</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1496,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 11:48:01</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1496,"size_name":"large"} )</li>
+<li><em>2022-12-25 11:48:01</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1496,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 11:48:01</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1496,"size_name":"medium"} )</li>
+<li><em>2022-12-25 11:48:00</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1496,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 11:46:50</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1495} )</li>
+<li><em>2022-12-25 11:46:50</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1495} )</li>
+<li><em>2022-12-25 11:46:49</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1495,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 11:46:49</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1495,"size_name":"large"} )</li>
+<li><em>2022-12-25 11:46:48</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1495,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 11:46:48</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1495,"size_name":"medium"} )</li>
+<li><em>2022-12-25 11:46:48</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1495,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 11:46:46</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1494} )</li>
+<li><em>2022-12-25 11:46:46</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1494} )</li>
+<li><em>2022-12-25 11:46:45</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1494,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 11:46:44</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1494,"size_name":"large"} )</li>
+<li><em>2022-12-25 11:46:44</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1494,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 11:46:44</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1494,"size_name":"medium"} )</li>
+<li><em>2022-12-25 11:46:43</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1494,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 11:46:06</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1493} )</li>
+<li><em>2022-12-25 11:46:06</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1493} )</li>
+<li><em>2022-12-25 11:46:05</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1493,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 11:46:05</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1493,"size_name":"large"} )</li>
+<li><em>2022-12-25 11:46:04</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1493,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 11:46:04</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1493,"size_name":"medium"} )</li>
+<li><em>2022-12-25 11:46:04</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1493,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 11:46:02</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1492} )</li>
+<li><em>2022-12-25 11:46:02</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1492} )</li>
+<li><em>2022-12-25 11:46:01</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1492,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 11:46:00</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1492,"size_name":"large"} )</li>
+<li><em>2022-12-25 11:46:00</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1492,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 11:46:00</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1492,"size_name":"medium"} )</li>
+<li><em>2022-12-25 11:45:59</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1492,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 11:45:57</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1491} )</li>
+<li><em>2022-12-25 11:45:57</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1491} )</li>
+<li><em>2022-12-25 11:45:56</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1491,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 11:45:56</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1491,"size_name":"large"} )</li>
+<li><em>2022-12-25 11:45:56</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1491,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 11:45:55</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1491,"size_name":"medium"} )</li>
+<li><em>2022-12-25 11:45:55</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1491,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 11:44:29</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1490} )</li>
+<li><em>2022-12-25 11:44:29</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1490} )</li>
+<li><em>2022-12-25 11:44:28</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1490,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 11:44:28</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1490,"size_name":"large"} )</li>
+<li><em>2022-12-25 11:44:27</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1490,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 11:44:27</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1490,"size_name":"medium"} )</li>
+<li><em>2022-12-25 11:44:27</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1490,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 11:44:24</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1489} )</li>
+<li><em>2022-12-25 11:44:24</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1489} )</li>
+<li><em>2022-12-25 11:44:23</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1489,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 11:44:23</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1489,"size_name":"large"} )</li>
+<li><em>2022-12-25 11:44:23</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1489,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 11:44:23</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1489,"size_name":"medium"} )</li>
+<li><em>2022-12-25 11:44:22</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1489,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 11:42:27</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1488} )</li>
+<li><em>2022-12-25 11:42:27</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1488} )</li>
+<li><em>2022-12-25 11:42:27</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1488,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 11:42:26</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1488,"size_name":"large"} )</li>
+<li><em>2022-12-25 11:42:26</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1488,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 11:42:26</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1488,"size_name":"medium"} )</li>
+<li><em>2022-12-25 11:42:26</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1488,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 11:40:36</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1487} )</li>
+<li><em>2022-12-25 11:40:36</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1487} )</li>
+<li><em>2022-12-25 11:40:35</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1487,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 11:40:35</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1487,"size_name":"large"} )</li>
+<li><em>2022-12-25 11:40:34</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1487,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 11:40:34</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1487,"size_name":"medium"} )</li>
+<li><em>2022-12-25 11:40:34</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1487,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 11:40:32</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1486} )</li>
+<li><em>2022-12-25 11:40:32</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1486} )</li>
+<li><em>2022-12-25 11:40:31</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1486,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 11:40:31</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1486,"size_name":"large"} )</li>
+<li><em>2022-12-25 11:40:30</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1486,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 11:40:30</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1486,"size_name":"medium"} )</li>
+<li><em>2022-12-25 11:40:30</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1486,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 11:25:36</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1485} )</li>
+<li><em>2022-12-25 11:25:36</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1485} )</li>
+<li><em>2022-12-25 11:25:35</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1485,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 11:25:35</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1485,"size_name":"large"} )</li>
+<li><em>2022-12-25 11:25:35</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1485,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 11:25:34</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1485,"size_name":"medium"} )</li>
+<li><em>2022-12-25 11:25:34</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1485,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 11:25:32</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1484} )</li>
+<li><em>2022-12-25 11:25:32</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1484} )</li>
+<li><em>2022-12-25 11:25:31</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1484,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 11:25:31</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1484,"size_name":"large"} )</li>
+<li><em>2022-12-25 11:25:30</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1484,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 11:25:30</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1484,"size_name":"medium"} )</li>
+<li><em>2022-12-25 11:25:30</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1484,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 11:20:08</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1483} )</li>
+<li><em>2022-12-25 11:20:08</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1483} )</li>
+<li><em>2022-12-25 11:20:07</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1483,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 11:20:07</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1483,"size_name":"large"} )</li>
+<li><em>2022-12-25 11:20:06</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1483,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 11:20:06</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1483,"size_name":"medium"} )</li>
+<li><em>2022-12-25 11:20:06</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1483,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 11:20:04</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1482} )</li>
+<li><em>2022-12-25 11:20:04</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1482} )</li>
+<li><em>2022-12-25 11:20:03</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1482,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 11:20:02</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1482,"size_name":"large"} )</li>
+<li><em>2022-12-25 11:20:02</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1482,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 11:20:02</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1482,"size_name":"medium"} )</li>
+<li><em>2022-12-25 11:20:02</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1482,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 11:16:36</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1481} )</li>
+<li><em>2022-12-25 11:16:36</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1481} )</li>
+<li><em>2022-12-25 11:16:35</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1480} )</li>
+<li><em>2022-12-25 11:16:35</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1480} )</li>
+<li><em>2022-12-25 11:08:45</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 11:08:20</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1479} )</li>
+<li><em>2022-12-25 11:08:20</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1479} )</li>
+<li><em>2022-12-25 11:08:18</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1478} )</li>
+<li><em>2022-12-25 11:08:18</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1478} )</li>
+<li><em>2022-12-25 11:06:02</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1477} )</li>
+<li><em>2022-12-25 11:06:02</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1477} )</li>
+<li><em>2022-12-25 11:06:00</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1476} )</li>
+<li><em>2022-12-25 11:06:00</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1476} )</li>
+<li><em>2022-12-25 11:01:26</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1475} )</li>
+<li><em>2022-12-25 11:01:26</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1475} )</li>
+<li><em>2022-12-25 11:01:25</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1474} )</li>
+<li><em>2022-12-25 11:01:25</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1474} )</li>
+<li><em>2022-12-25 11:00:16</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1473} )</li>
+<li><em>2022-12-25 11:00:16</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1473} )</li>
+<li><em>2022-12-25 11:00:15</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1473,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 11:00:15</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1473,"size_name":"large"} )</li>
+<li><em>2022-12-25 11:00:15</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1473,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 11:00:14</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1473,"size_name":"medium"} )</li>
+<li><em>2022-12-25 11:00:14</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1473,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 11:00:12</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1472} )</li>
+<li><em>2022-12-25 11:00:12</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1472} )</li>
+<li><em>2022-12-25 11:00:11</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1472,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 11:00:11</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1472,"size_name":"large"} )</li>
+<li><em>2022-12-25 11:00:10</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1472,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 11:00:10</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1472,"size_name":"medium"} )</li>
+<li><em>2022-12-25 11:00:10</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1472,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:57:29</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1471} )</li>
+<li><em>2022-12-25 10:57:29</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1471} )</li>
+<li><em>2022-12-25 10:57:28</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1471,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:57:28</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1471,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:57:28</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1471,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:57:27</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1471,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:57:27</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1471,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:57:25</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1470} )</li>
+<li><em>2022-12-25 10:57:25</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1470} )</li>
+<li><em>2022-12-25 10:57:24</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1470,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:57:24</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1470,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:57:24</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1470,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:57:23</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1470,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:57:23</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1470,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:55:34</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1469} )</li>
+<li><em>2022-12-25 10:55:34</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1469} )</li>
+<li><em>2022-12-25 10:55:33</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1469,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:55:32</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1469,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:55:32</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1469,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:55:32</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1469,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:55:31</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1469,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:55:30</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1468} )</li>
+<li><em>2022-12-25 10:55:30</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1468} )</li>
+<li><em>2022-12-25 10:55:29</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1468,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:55:28</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1468,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:55:28</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1468,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:55:27</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1468,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:55:27</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1468,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:53:11</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1467} )</li>
+<li><em>2022-12-25 10:53:10</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1467} )</li>
+<li><em>2022-12-25 10:53:09</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1467,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:53:09</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1467,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:53:09</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1467,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:53:09</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1467,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:53:08</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1467,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:53:07</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1466} )</li>
+<li><em>2022-12-25 10:53:07</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1466} )</li>
+<li><em>2022-12-25 10:53:06</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1466,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:53:05</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1466,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:53:05</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1466,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:53:05</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1466,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:53:04</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1466,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:51:24</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1465} )</li>
+<li><em>2022-12-25 10:51:24</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1465} )</li>
+<li><em>2022-12-25 10:51:23</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1465,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:51:23</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1465,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:51:22</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1465,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:51:22</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1465,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:51:22</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1465,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:51:20</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1464} )</li>
+<li><em>2022-12-25 10:51:20</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1464} )</li>
+<li><em>2022-12-25 10:51:19</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1464,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:51:19</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1464,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:51:18</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1464,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:51:18</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1464,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:51:18</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1464,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:47:10</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1463} )</li>
+<li><em>2022-12-25 10:47:10</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1463} )</li>
+<li><em>2022-12-25 10:47:09</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1463,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:47:08</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1463,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:47:08</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1463,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:47:08</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1463,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:47:07</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1463,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:47:05</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1462} )</li>
+<li><em>2022-12-25 10:47:05</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1462} )</li>
+<li><em>2022-12-25 10:47:04</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1462,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:47:04</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1462,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:47:04</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1462,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:47:03</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1462,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:47:03</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1462,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:37:44</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1461} )</li>
+<li><em>2022-12-25 10:37:44</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1461} )</li>
+<li><em>2022-12-25 10:37:43</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1461,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:37:43</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1461,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:37:42</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1461,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:37:42</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1461,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:37:42</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1461,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:37:40</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1460} )</li>
+<li><em>2022-12-25 10:37:40</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1460} )</li>
+<li><em>2022-12-25 10:37:39</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1460,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:37:39</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1460,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:37:38</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1460,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:37:38</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1460,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:37:38</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1460,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:36:51</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1459} )</li>
+<li><em>2022-12-25 10:36:51</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1459} )</li>
+<li><em>2022-12-25 10:36:50</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1459,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:36:50</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1459,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:36:50</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1459,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:36:50</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1459,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:36:49</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1459,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:36:48</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1458} )</li>
+<li><em>2022-12-25 10:36:48</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1458} )</li>
+<li><em>2022-12-25 10:36:47</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1458,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:36:46</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1458,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:36:46</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1458,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:36:46</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1458,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:36:46</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1458,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:34:10</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1457} )</li>
+<li><em>2022-12-25 10:34:10</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1457} )</li>
+<li><em>2022-12-25 10:34:09</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1457,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:34:09</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1457,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:34:09</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1457,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:34:08</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1457,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:34:08</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1457,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:34:07</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1456} )</li>
+<li><em>2022-12-25 10:34:07</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1456} )</li>
+<li><em>2022-12-25 10:34:06</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1456,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:34:05</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1456,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:34:05</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1456,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:34:05</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1456,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:34:04</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1456,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:34:03</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1455} )</li>
+<li><em>2022-12-25 10:34:03</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1455} )</li>
+<li><em>2022-12-25 10:34:02</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1455,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:34:01</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1455,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:34:01</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1455,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:34:01</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1455,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:34:01</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1455,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:31:48</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1454} )</li>
+<li><em>2022-12-25 10:31:48</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1454} )</li>
+<li><em>2022-12-25 10:31:47</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1454,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:31:46</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1454,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:31:46</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1454,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:31:46</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1454,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:31:46</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1454,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:31:44</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1453} )</li>
+<li><em>2022-12-25 10:31:44</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1453} )</li>
+<li><em>2022-12-25 10:31:43</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1453,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:31:43</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1453,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:31:42</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1453,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:31:42</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1453,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:31:42</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1453,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:31:40</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1452} )</li>
+<li><em>2022-12-25 10:31:40</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1452} )</li>
+<li><em>2022-12-25 10:31:39</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1452,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:31:39</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1452,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:31:38</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1452,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:31:38</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1452,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:31:38</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1452,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:31:36</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1451} )</li>
+<li><em>2022-12-25 10:31:36</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1451} )</li>
+<li><em>2022-12-25 10:31:35</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1451,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:31:35</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1451,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:31:34</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1451,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:31:34</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1451,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:31:34</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1451,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:29:44</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1450} )</li>
+<li><em>2022-12-25 10:29:44</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1450} )</li>
+<li><em>2022-12-25 10:29:43</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1450,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:29:43</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1450,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:29:43</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1450,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:29:42</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1450,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:29:42</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1450,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:29:41</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1449} )</li>
+<li><em>2022-12-25 10:29:41</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1449} )</li>
+<li><em>2022-12-25 10:29:39</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1449,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:29:39</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1449,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:29:39</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1449,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:29:39</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1449,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:29:38</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1449,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:27:23</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1448} )</li>
+<li><em>2022-12-25 10:27:23</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1448} )</li>
+<li><em>2022-12-25 10:27:22</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1448,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:27:21</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1448,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:27:21</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1448,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:27:21</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1448,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:27:21</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1448,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:27:19</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1447} )</li>
+<li><em>2022-12-25 10:27:19</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1447} )</li>
+<li><em>2022-12-25 10:27:18</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1447,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:27:18</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1447,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:27:17</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1447,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:27:17</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1447,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:27:17</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1447,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:24:06</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1446} )</li>
+<li><em>2022-12-25 10:24:06</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1446} )</li>
+<li><em>2022-12-25 10:24:05</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1446,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:24:04</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1446,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:24:04</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1446,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:24:04</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1446,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:24:03</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1446,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:24:02</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1445} )</li>
+<li><em>2022-12-25 10:24:02</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1445} )</li>
+<li><em>2022-12-25 10:24:01</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1445,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:24:00</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1445,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:24:00</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1445,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:24:00</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1445,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:24:00</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1445,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:21:31</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1444} )</li>
+<li><em>2022-12-25 10:21:31</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1444} )</li>
+<li><em>2022-12-25 10:21:30</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1444,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:21:30</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1444,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:21:30</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1444,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:21:29</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1444,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:21:29</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1444,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:21:27</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1443} )</li>
+<li><em>2022-12-25 10:21:27</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1443} )</li>
+<li><em>2022-12-25 10:21:26</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1443,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:21:26</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1443,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:21:26</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1443,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:21:25</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1443,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:21:25</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1443,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:21:07</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 10:18:57</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1442} )</li>
+<li><em>2022-12-25 10:18:57</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1442} )</li>
+<li><em>2022-12-25 10:18:56</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1442,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:18:56</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1442,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:18:56</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1442,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:18:55</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1442,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:18:55</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1442,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:18:53</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1441} )</li>
+<li><em>2022-12-25 10:18:53</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1441} )</li>
+<li><em>2022-12-25 10:18:52</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1441,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:18:51</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1441,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:18:51</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1441,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:18:51</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1441,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:18:51</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1441,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:15:45</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1440} )</li>
+<li><em>2022-12-25 10:15:45</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1440} )</li>
+<li><em>2022-12-25 10:15:44</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1440,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:15:44</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1440,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:15:44</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1440,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:15:44</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1440,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:15:43</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1440,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:15:42</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1439} )</li>
+<li><em>2022-12-25 10:15:42</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1439} )</li>
+<li><em>2022-12-25 10:15:41</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1439,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:15:40</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1439,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:15:40</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1439,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:15:40</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1439,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:15:40</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1439,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:13:08</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1438} )</li>
+<li><em>2022-12-25 10:13:08</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1438} )</li>
+<li><em>2022-12-25 10:13:07</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1438,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:13:06</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1438,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:13:06</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1438,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:13:06</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1438,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:13:06</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1438,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:13:04</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1437} )</li>
+<li><em>2022-12-25 10:13:04</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1437} )</li>
+<li><em>2022-12-25 10:13:03</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1437,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:13:03</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1437,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:13:02</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1437,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:13:02</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1437,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:13:02</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1437,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:07:49</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1436} )</li>
+<li><em>2022-12-25 10:07:49</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1436} )</li>
+<li><em>2022-12-25 10:07:49</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1435} )</li>
+<li><em>2022-12-25 10:07:49</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1435} )</li>
+<li><em>2022-12-25 10:07:48</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1436,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:07:48</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1435,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 10:07:48</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1436,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:07:48</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1435,"size_name":"large"} )</li>
+<li><em>2022-12-25 10:07:47</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1436,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:07:47</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1435,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 10:07:47</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1436,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:07:47</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1435,"size_name":"medium"} )</li>
+<li><em>2022-12-25 10:07:47</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1436,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 10:07:47</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1435,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:58:38</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1434} )</li>
+<li><em>2022-12-25 09:58:38</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1434} )</li>
+<li><em>2022-12-25 09:58:38</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1433} )</li>
+<li><em>2022-12-25 09:58:38</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1433} )</li>
+<li><em>2022-12-25 09:58:37</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1433,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:58:37</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1434,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:58:37</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1433,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:58:37</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1434,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:58:37</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1434,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:58:37</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1433,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:58:36</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1434,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:58:36</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1433,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:58:36</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1434,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:58:36</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1433,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:56:32</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1432} )</li>
+<li><em>2022-12-25 09:56:32</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1432} )</li>
+<li><em>2022-12-25 09:56:31</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1432,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:56:31</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1432,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:56:30</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1432,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:56:30</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1432,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:56:30</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1432,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:56:28</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1431} )</li>
+<li><em>2022-12-25 09:56:28</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1431} )</li>
+<li><em>2022-12-25 09:56:27</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1431,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:56:27</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1431,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:56:26</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1431,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:56:26</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1431,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:56:26</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1431,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:56:06</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 09:55:05</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1430} )</li>
+<li><em>2022-12-25 09:55:05</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1430} )</li>
+<li><em>2022-12-25 09:55:04</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1430,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:55:04</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1430,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:55:03</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1430,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:55:03</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1430,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:55:03</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1430,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:52:22</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 09:51:21</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 09:51:15</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1428} )</li>
+<li><em>2022-12-25 09:51:15</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1428} )</li>
+<li><em>2022-12-25 09:51:15</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1426} )</li>
+<li><em>2022-12-25 09:51:15</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1429} )</li>
+<li><em>2022-12-25 09:51:15</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1429} )</li>
+<li><em>2022-12-25 09:51:14</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1427,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:51:14</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1428,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:51:14</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1426,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:51:14</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1429,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:51:13</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1427,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:51:13</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1429,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:51:13</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1428,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:51:13</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1429,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:51:13</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1427,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:51:13</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1428,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:51:13</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1426,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:51:12</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1429,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:51:12</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1428,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:51:12</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1427,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:51:12</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1426,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:51:12</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1429,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:51:12</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1428,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:51:12</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1427,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:51:12</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1426,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:47:07</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1425} )</li>
+<li><em>2022-12-25 09:47:07</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1425} )</li>
+<li><em>2022-12-25 09:47:06</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1425,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:47:06</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1425,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:47:06</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1425,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:47:06</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1425,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:47:05</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1425,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:47:04</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1424} )</li>
+<li><em>2022-12-25 09:47:04</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1424} )</li>
+<li><em>2022-12-25 09:47:02</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1424,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:47:02</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1424,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:47:02</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1424,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:47:01</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1424,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:47:01</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1424,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:46:59</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1423} )</li>
+<li><em>2022-12-25 09:46:59</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1423} )</li>
+<li><em>2022-12-25 09:46:58</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1423,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:46:58</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1423,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:46:57</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1423,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:46:57</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1423,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:46:57</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1423,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:46:55</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1422} )</li>
+<li><em>2022-12-25 09:46:55</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1422} )</li>
+<li><em>2022-12-25 09:46:54</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1422,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:46:54</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1422,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:46:53</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1422,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:46:53</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1422,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:46:53</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1422,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:46:21</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 09:45:48</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 09:42:07</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1421} )</li>
+<li><em>2022-12-25 09:42:07</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1421} )</li>
+<li><em>2022-12-25 09:42:06</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1421,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:42:06</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1421,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:42:05</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1421,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:42:05</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1421,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:42:05</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1421,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:42:03</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1420} )</li>
+<li><em>2022-12-25 09:42:03</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1420} )</li>
+<li><em>2022-12-25 09:42:02</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1420,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:42:02</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1420,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:42:01</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1420,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:42:01</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1420,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:42:01</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1420,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:41:59</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1419} )</li>
+<li><em>2022-12-25 09:41:59</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1419} )</li>
+<li><em>2022-12-25 09:41:58</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1419,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:41:58</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1419,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:41:57</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1419,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:41:57</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1419,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:41:57</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1419,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:41:55</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1418} )</li>
+<li><em>2022-12-25 09:41:55</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1418} )</li>
+<li><em>2022-12-25 09:41:54</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1418,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:41:54</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1418,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:41:53</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1418,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:41:53</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1418,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:41:53</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1418,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:39:30</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 09:37:18</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 09:36:41</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1417} )</li>
+<li><em>2022-12-25 09:36:41</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1417} )</li>
+<li><em>2022-12-25 09:36:40</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1417,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:36:40</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1417,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:36:40</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1417,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:36:39</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1417,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:36:39</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1417,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:36:37</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1416} )</li>
+<li><em>2022-12-25 09:36:37</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1416} )</li>
+<li><em>2022-12-25 09:36:36</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1416,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:36:36</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1416,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:36:36</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1416,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:36:35</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1416,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:36:35</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1416,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:35:48</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 09:35:34</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1415} )</li>
+<li><em>2022-12-25 09:35:34</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1415} )</li>
+<li><em>2022-12-25 09:35:33</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1415,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:35:32</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1415,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:35:32</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1415,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:35:32</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1415,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:35:31</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1415,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:35:30</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1414} )</li>
+<li><em>2022-12-25 09:35:30</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1414} )</li>
+<li><em>2022-12-25 09:35:29</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1414,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:35:28</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1414,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:35:28</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1414,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:35:28</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1414,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:35:28</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1414,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:30:36</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 09:30:03</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1413} )</li>
+<li><em>2022-12-25 09:30:03</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1413} )</li>
+<li><em>2022-12-25 09:30:02</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1413,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:30:02</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1413,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:30:01</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1413,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:30:01</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1413,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:30:01</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1413,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:29:59</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1412} )</li>
+<li><em>2022-12-25 09:29:59</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1412} )</li>
+<li><em>2022-12-25 09:29:58</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1412,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:29:58</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1412,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:29:57</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1412,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:29:57</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1412,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:29:57</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1412,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:29:55</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1411} )</li>
+<li><em>2022-12-25 09:29:55</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1411} )</li>
+<li><em>2022-12-25 09:29:54</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1411,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:29:54</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1411,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:29:53</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1411,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:29:53</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1411,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:29:53</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1411,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:29:50</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1410} )</li>
+<li><em>2022-12-25 09:29:50</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1410} )</li>
+<li><em>2022-12-25 09:29:49</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1410,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:29:49</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1410,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:29:49</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1410,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:29:49</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1410,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:29:48</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1410,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:29:28</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 09:25:40</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 09:23:09</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1408} )</li>
+<li><em>2022-12-25 09:23:09</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1408} )</li>
+<li><em>2022-12-25 09:23:07</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1408,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:23:07</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1408,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:23:07</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1408,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:23:06</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1408,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:23:06</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1408,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:23:04</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1407} )</li>
+<li><em>2022-12-25 09:23:04</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1407} )</li>
+<li><em>2022-12-25 09:23:03</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1407,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:23:03</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1407,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:23:03</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1407,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:23:02</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1407,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:23:02</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1407,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:23:00</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1406} )</li>
+<li><em>2022-12-25 09:23:00</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1406} )</li>
+<li><em>2022-12-25 09:22:59</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1406,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:22:59</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1406,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:22:59</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1406,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:22:59</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1406,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:22:58</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1406,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:22:41</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 09:22:21</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 09:22:17</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1405} )</li>
+<li><em>2022-12-25 09:22:17</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1405} )</li>
+<li><em>2022-12-25 09:22:16</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1405,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:22:16</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1405,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:22:16</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1405,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:22:15</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1405,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:22:15</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1405,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:22:11</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1404} )</li>
+<li><em>2022-12-25 09:22:11</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1404} )</li>
+<li><em>2022-12-25 09:22:10</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1404,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:22:10</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1404,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:22:10</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1404,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:22:09</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1404,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:22:09</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1404,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:20:17</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 09:17:40</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 09:16:30</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1402} )</li>
+<li><em>2022-12-25 09:16:30</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1402} )</li>
+<li><em>2022-12-25 09:16:29</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1402,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:16:29</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1402,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:16:29</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1402,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:16:28</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1401} )</li>
+<li><em>2022-12-25 09:16:28</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1401} )</li>
+<li><em>2022-12-25 09:16:28</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1402,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:16:28</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1402,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:16:27</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1401,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:16:27</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1401,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:16:27</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1401,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:16:26</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1401,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:16:26</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1401,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:16:03</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 09:15:45</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 09:15:06</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1400} )</li>
+<li><em>2022-12-25 09:15:06</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1400} )</li>
+<li><em>2022-12-25 09:15:05</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1400,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:15:05</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1400,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:15:05</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1400,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:15:05</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1400,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:15:04</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1400,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:15:04</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1399} )</li>
+<li><em>2022-12-25 09:15:04</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1399} )</li>
+<li><em>2022-12-25 09:15:03</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1399,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:15:03</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1399,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:15:03</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1399,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:15:03</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1399,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:15:02</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1399,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:14:32</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 09:13:37</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 09:13:32</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1398} )</li>
+<li><em>2022-12-25 09:13:32</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1398} )</li>
+<li><em>2022-12-25 09:13:31</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1398,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:13:30</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1398,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:13:30</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1398,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:13:30</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1398,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:13:30</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1397} )</li>
+<li><em>2022-12-25 09:13:30</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1397} )</li>
+<li><em>2022-12-25 09:13:30</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1398,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:13:29</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1397,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:13:28</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1397,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:13:28</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1397,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:13:28</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1397,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:13:27</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1397,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:02:46</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 09:02:11</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 09:02:00</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1395} )</li>
+<li><em>2022-12-25 09:02:00</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1395} )</li>
+<li><em>2022-12-25 09:01:59</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1395,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:01:59</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1395,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:01:59</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1394} )</li>
+<li><em>2022-12-25 09:01:59</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1394} )</li>
+<li><em>2022-12-25 09:01:59</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1395,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:01:58</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1395,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:01:58</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1395,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:01:58</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1394,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 09:01:58</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1394,"size_name":"large"} )</li>
+<li><em>2022-12-25 09:01:57</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1394,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 09:01:57</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1394,"size_name":"medium"} )</li>
+<li><em>2022-12-25 09:01:57</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1394,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 09:01:25</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 08:58:16</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 08:57:10</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 08:57:02</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 08:56:45</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1393} )</li>
+<li><em>2022-12-25 08:56:45</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1393} )</li>
+<li><em>2022-12-25 08:56:44</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1393,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 08:56:44</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1393,"size_name":"large"} )</li>
+<li><em>2022-12-25 08:56:43</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1393,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 08:56:43</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1392} )</li>
+<li><em>2022-12-25 08:56:43</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1392} )</li>
+<li><em>2022-12-25 08:56:43</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1393,"size_name":"medium"} )</li>
+<li><em>2022-12-25 08:56:43</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1393,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 08:56:42</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1392,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 08:56:42</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1392,"size_name":"large"} )</li>
+<li><em>2022-12-25 08:56:41</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1392,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 08:56:41</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1392,"size_name":"medium"} )</li>
+<li><em>2022-12-25 08:56:41</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1392,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 08:56:24</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 08:55:55</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 08:55:04</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1391} )</li>
+<li><em>2022-12-25 08:55:04</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1391} )</li>
+<li><em>2022-12-25 08:55:03</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1391,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 08:55:03</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1391,"size_name":"large"} )</li>
+<li><em>2022-12-25 08:55:03</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1390} )</li>
+<li><em>2022-12-25 08:55:03</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1390} )</li>
+<li><em>2022-12-25 08:55:03</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1391,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 08:55:02</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1391,"size_name":"medium"} )</li>
+<li><em>2022-12-25 08:55:02</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1391,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 08:55:02</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1390,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 08:55:02</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1390,"size_name":"large"} )</li>
+<li><em>2022-12-25 08:55:01</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1390,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 08:55:01</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1390,"size_name":"medium"} )</li>
+<li><em>2022-12-25 08:55:01</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1390,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 08:52:12</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 08:51:31</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 08:51:02</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1389} )</li>
+<li><em>2022-12-25 08:51:02</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1389} )</li>
+<li><em>2022-12-25 08:51:01</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1389,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 08:51:01</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1389,"size_name":"large"} )</li>
+<li><em>2022-12-25 08:51:01</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1389,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 08:51:00</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1389,"size_name":"medium"} )</li>
+<li><em>2022-12-25 08:51:00</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1388} )</li>
+<li><em>2022-12-25 08:51:00</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1388} )</li>
+<li><em>2022-12-25 08:51:00</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1389,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 08:50:59</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1388,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 08:50:59</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1388,"size_name":"large"} )</li>
+<li><em>2022-12-25 08:50:59</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1388,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 08:50:58</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1388,"size_name":"medium"} )</li>
+<li><em>2022-12-25 08:50:58</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1388,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 08:50:56</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1387} )</li>
+<li><em>2022-12-25 08:50:56</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1387} )</li>
+<li><em>2022-12-25 08:50:55</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1387,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 08:50:55</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1386} )</li>
+<li><em>2022-12-25 08:50:55</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1386} )</li>
+<li><em>2022-12-25 08:50:55</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1387,"size_name":"large"} )</li>
+<li><em>2022-12-25 08:50:55</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1387,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 08:50:54</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1387,"size_name":"medium"} )</li>
+<li><em>2022-12-25 08:50:54</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1387,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 08:50:54</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1386,"size_name":"article_background"} )</li>
+<li><em>2022-12-25 08:50:54</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1386,"size_name":"large"} )</li>
+<li><em>2022-12-25 08:50:54</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1386,"size_name":"medium_large"} )</li>
+<li><em>2022-12-25 08:50:53</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1386,"size_name":"medium"} )</li>
+<li><em>2022-12-25 08:50:53</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1386,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-25 07:20:52</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 07:20:15</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 07:19:56</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-25 07:19:44</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-24 13:05:20</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1385} )</li>
+<li><em>2022-12-24 13:05:20</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1385} )</li>
+<li><em>2022-12-24 13:05:19</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1385,"size_name":"article_background"} )</li>
+<li><em>2022-12-24 13:05:18</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1385,"size_name":"large"} )</li>
+<li><em>2022-12-24 13:05:18</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1385,"size_name":"medium_large"} )</li>
+<li><em>2022-12-24 13:05:17</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1385,"size_name":"medium"} )</li>
+<li><em>2022-12-24 13:05:17</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1385,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-24 13:05:15</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1384} )</li>
+<li><em>2022-12-24 13:05:15</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1384} )</li>
+<li><em>2022-12-24 13:05:15</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1384,"size_name":"medium"} )</li>
+<li><em>2022-12-24 13:05:14</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1384,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-24 13:05:13</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1383} )</li>
+<li><em>2022-12-24 13:05:12</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1383} )</li>
+<li><em>2022-12-24 12:56:36</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-24 12:56:22</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-24 12:56:12</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1382} )</li>
+<li><em>2022-12-24 12:56:12</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1382} )</li>
+<li><em>2022-12-24 12:56:10</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1381} )</li>
+<li><em>2022-12-24 12:56:10</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1381} )</li>
+<li><em>2022-12-24 12:56:10</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1381,"size_name":"medium"} )</li>
+<li><em>2022-12-24 12:56:10</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1381,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-24 12:55:56</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-24 12:55:31</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1380} )</li>
+<li><em>2022-12-24 12:55:31</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1380} )</li>
+<li><em>2022-12-24 12:55:30</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1380,"size_name":"medium_large"} )</li>
+<li><em>2022-12-24 12:55:30</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1380,"size_name":"medium"} )</li>
+<li><em>2022-12-24 12:55:30</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1380,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-24 12:54:30</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1379} )</li>
+<li><em>2022-12-24 12:54:30</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1379} )</li>
+<li><em>2022-12-24 12:43:43</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-24 12:43:19</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-24 06:21:42</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-24 06:17:32</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-24 06:08:32</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-21 09:35:50</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1378} )</li>
+<li><em>2022-12-21 09:35:50</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1378} )</li>
+<li><em>2022-12-21 09:32:40</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1377} )</li>
+<li><em>2022-12-21 09:32:40</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1377} )</li>
+<li><em>2022-12-21 09:32:38</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1376} )</li>
+<li><em>2022-12-21 09:32:38</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1376} )</li>
+<li><em>2022-12-21 09:30:30</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1375} )</li>
+<li><em>2022-12-21 09:30:29</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1375} )</li>
+<li><em>2022-12-21 09:27:01</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1374} )</li>
+<li><em>2022-12-21 09:27:01</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1374} )</li>
+<li><em>2022-12-21 09:27:00</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1373} )</li>
+<li><em>2022-12-21 09:27:00</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1373} )</li>
+<li><em>2022-12-21 08:44:27</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1372} )</li>
+<li><em>2022-12-21 08:44:27</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1372} )</li>
+<li><em>2022-12-21 08:42:55</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1371} )</li>
+<li><em>2022-12-21 08:42:55</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1371} )</li>
+<li><em>2022-12-21 08:40:36</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1370} )</li>
+<li><em>2022-12-21 08:40:36</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1370} )</li>
+<li><em>2022-12-21 08:08:20</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1369} )</li>
+<li><em>2022-12-21 08:08:20</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1369} )</li>
+<li><em>2022-12-21 08:08:18</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1369,"size_name":"article_background"} )</li>
+<li><em>2022-12-21 08:08:18</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1369,"size_name":"large"} )</li>
+<li><em>2022-12-21 08:08:17</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1369,"size_name":"medium_large"} )</li>
+<li><em>2022-12-21 08:08:17</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1369,"size_name":"medium"} )</li>
+<li><em>2022-12-21 08:08:16</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1369,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-21 06:51:16</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1374} )</li>
+<li><em>2022-12-21 06:51:16</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1374} )</li>
+<li><em>2022-12-21 06:51:16</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1374,"size_name":"medium"} )</li>
+<li><em>2022-12-21 06:51:16</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1374,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-21 06:51:16</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1373} )</li>
+<li><em>2022-12-21 06:51:16</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1373} )</li>
+<li><em>2022-12-21 06:51:16</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1373,"size_name":"medium_large"} )</li>
+<li><em>2022-12-21 06:51:15</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1373,"size_name":"medium"} )</li>
+<li><em>2022-12-21 06:51:15</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1373,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-21 06:51:14</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1372} )</li>
+<li><em>2022-12-21 06:51:14</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1372} )</li>
+<li><em>2022-12-21 06:49:58</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1369} )</li>
+<li><em>2022-12-21 06:49:58</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1369} )</li>
+<li><em>2022-12-21 06:49:57</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1370} )</li>
+<li><em>2022-12-21 06:49:57</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1370} )</li>
+<li><em>2022-12-21 06:49:57</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1371} )</li>
+<li><em>2022-12-21 06:49:57</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1371} )</li>
+<li><em>2022-12-21 06:49:57</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1369,"size_name":"article_background"} )</li>
+<li><em>2022-12-21 06:49:57</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1370,"size_name":"medium_large"} )</li>
+<li><em>2022-12-21 06:49:56</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1369,"size_name":"large"} )</li>
+<li><em>2022-12-21 06:49:56</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1370,"size_name":"medium"} )</li>
+<li><em>2022-12-21 06:49:56</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1370,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-21 06:49:56</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1369,"size_name":"medium_large"} )</li>
+<li><em>2022-12-21 06:49:55</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1369,"size_name":"medium"} )</li>
+<li><em>2022-12-21 06:49:55</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1369,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-21 05:24:03</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1380} )</li>
+<li><em>2022-12-21 05:24:03</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1380} )</li>
+<li><em>2022-12-21 05:24:03</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1380,"size_name":"medium"} )</li>
+<li><em>2022-12-21 05:24:03</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1380,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-21 05:24:02</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1379} )</li>
+<li><em>2022-12-21 05:24:02</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1379} )</li>
+<li><em>2022-12-21 05:24:02</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1379,"size_name":"medium"} )</li>
+<li><em>2022-12-21 05:24:02</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1379,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-21 05:24:02</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1378} )</li>
+<li><em>2022-12-21 05:24:02</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1378} )</li>
+<li><em>2022-12-21 05:23:01</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1375} )</li>
+<li><em>2022-12-21 05:23:01</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1375} )</li>
+<li><em>2022-12-21 05:23:00</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1376} )</li>
+<li><em>2022-12-21 05:23:00</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1376} )</li>
+<li><em>2022-12-21 05:22:59</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1375,"size_name":"article_background"} )</li>
+<li><em>2022-12-21 05:22:59</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1377} )</li>
+<li><em>2022-12-21 05:22:59</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1377} )</li>
+<li><em>2022-12-21 05:22:59</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1375,"size_name":"large"} )</li>
+<li><em>2022-12-21 05:22:59</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1376,"size_name":"article_background"} )</li>
+<li><em>2022-12-21 05:22:59</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1377,"size_name":"medium"} )</li>
+<li><em>2022-12-21 05:22:59</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1377,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-21 05:22:59</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1376,"size_name":"large"} )</li>
+<li><em>2022-12-21 05:22:58</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1375,"size_name":"medium_large"} )</li>
+<li><em>2022-12-21 05:22:58</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1376,"size_name":"medium_large"} )</li>
+<li><em>2022-12-21 05:22:58</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1376,"size_name":"medium"} )</li>
+<li><em>2022-12-21 05:22:58</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1376,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-21 05:22:58</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1375,"size_name":"medium"} )</li>
+<li><em>2022-12-21 05:22:58</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1375,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-21 05:19:04</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1374} )</li>
+<li><em>2022-12-21 05:19:04</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1374} )</li>
+<li><em>2022-12-21 05:19:03</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1374,"size_name":"medium_large"} )</li>
+<li><em>2022-12-21 05:19:03</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1374,"size_name":"medium"} )</li>
+<li><em>2022-12-21 05:19:03</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1374,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-21 05:19:02</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1373} )</li>
+<li><em>2022-12-21 05:19:02</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1373} )</li>
+<li><em>2022-12-21 05:19:01</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1372} )</li>
+<li><em>2022-12-21 05:19:01</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1372} )</li>
+<li><em>2022-12-21 05:19:01</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1372,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-21 05:19:00</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1371} )</li>
+<li><em>2022-12-21 05:19:00</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1371} )</li>
+<li><em>2022-12-21 05:19:00</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1371,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-21 04:58:36</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1370} )</li>
+<li><em>2022-12-21 04:58:36</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1370} )</li>
+<li><em>2022-12-21 04:58:35</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1369} )</li>
+<li><em>2022-12-21 04:58:35</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1369} )</li>
+<li><em>2022-12-21 04:56:04</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-21 04:55:24</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":0,"type":"briefcase","parent_id":0,"parent_type":""} )</li>
+<li><em>2022-12-21 04:54:42</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1367} )</li>
+<li><em>2022-12-21 04:54:42</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1367} )</li>
+<li><em>2022-12-21 04:54:41</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1367,"size_name":"medium_large"} )</li>
+<li><em>2022-12-21 04:54:41</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1367,"size_name":"medium"} )</li>
+<li><em>2022-12-21 04:54:41</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1367,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-21 04:54:40</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1366} )</li>
+<li><em>2022-12-21 04:54:40</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1366} )</li>
+<li><em>2022-12-21 04:54:12</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1365} )</li>
+<li><em>2022-12-21 04:54:12</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1365} )</li>
+<li><em>2022-12-21 04:54:12</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1365,"size_name":"medium_large"} )</li>
+<li><em>2022-12-21 04:54:11</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1365,"size_name":"medium"} )</li>
+<li><em>2022-12-21 04:54:11</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1365,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-21 04:54:10</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1364} )</li>
+<li><em>2022-12-21 04:54:10</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1364} )</li>
+<li><em>2022-12-21 04:53:28</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1363} )</li>
+<li><em>2022-12-21 04:53:28</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1363} )</li>
+<li><em>2022-12-21 04:53:28</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1363,"size_name":"medium_large"} )</li>
+<li><em>2022-12-21 04:53:27</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1363,"size_name":"medium"} )</li>
+<li><em>2022-12-21 04:53:27</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1363,"size_name":"thumbnail"} )</li>
+<li><em>2022-12-21 04:53:26</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":1362} )</li>
+<li><em>2022-12-21 04:53:26</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":1362} )</li>
+<li><em>2022-12-21 04:53:26</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":1362,"size_name":"medium"} )</li>

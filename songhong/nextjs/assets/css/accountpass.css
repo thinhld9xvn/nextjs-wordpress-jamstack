@@ -1,0 +1,307 @@
+.a {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  height: 1px;
+  padding-top: 100%;
+}
+.a img {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+/* :not(:last-child) */
+/* :nth-child(1n+0) */
+.headers-account__pass {
+  border-bottom: solid 1px #E0E0E0;
+}
+.headers-account__pass > .container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 18px 200px;
+  background-color: #FFFFFF;
+  max-width: 100%;
+}
+.headers-account__pass .btn-sea__alls {
+  font-size: 16px;
+  font-family: "Lato-Regular";
+}
+
+.content-account__pass {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  overflow: hidden;
+}
+.content-account__pass .left-accounts__pass {
+  width: 42%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 60px 200px;
+  padding-top: 10%;
+  background-color: #FFFFFF;
+  height: 100%;
+}
+.content-account__pass .right-accounts__pass {
+  width: 58%;
+  padding: 170px 220px;
+  background: url(/static/images/bg-right-accounts-pass.png) no-repeat center;
+  background-size: cover;
+  position: relative;
+}
+
+.form-account__pass {
+  width: 100%;
+}
+.form-account__pass .btn-sea__alls {
+  width: 100%;
+  font-family: "Lato-Regular";
+}
+.form-account__pass .groups-accounts__form .control-groups__accounts input::-webkit-input-placeholder {
+  color: #5D7596;
+}
+.form-account__pass .groups-accounts__form .control-groups__accounts input::-moz-placeholder {
+  color: #5D7596;
+}
+.form-account__pass .groups-accounts__form .control-groups__accounts input:-ms-input-placeholder {
+  color: #5D7596;
+}
+.form-account__pass .groups-accounts__form .control-groups__accounts input::-ms-input-placeholder {
+  color: #5D7596;
+}
+.form-account__pass .groups-accounts__form .control-groups__accounts input::placeholder {
+  color: #5D7596;
+}
+
+.titles-after__befores {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  position: relative;
+  width: 100%;
+}
+.titles-after__befores:before {
+  content: "";
+  position: absolute;
+  left: 0px;
+  width: 100%;
+  height: 1px;
+  width: 100%;
+  background-color: #DCDFE4;
+}
+.titles-after__befores span {
+  color: #A1AFC2;
+  background-color: #FFFFFF;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  z-index: 10;
+  padding: 0px 15px;
+  position: relative;
+}
+
+.list-left__accounts li p:before {
+  content: "";
+  min-width: 5px;
+  width: 5px;
+  height: 5px;
+  display: inline-block;
+  border-radius: 1000px;
+  background-color: #0F2039;
+  margin-right: 10px;
+  -webkit-transform: translateY(-3px);
+          transform: translateY(-3px);
+}
+
+.slide-accounts__pass {
+  width: 100%;
+}
+.slide-accounts__pass .swiper-button-prev,
+.slide-accounts__pass .swiper-button-next {
+  opacity: 0;
+  visibility: hidden;
+}
+.slide-accounts__pass .group-btns__showss {
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 1px;
+  width: 100%;
+  z-index: 10;
+  top: 50px;
+  left: 50px;
+}
+.slide-accounts__pass .group-btns__showss .showss-button-prev,
+.slide-accounts__pass .group-btns__showss .showss-button-next {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  position: relative;
+  width: 20px;
+  height: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  padding: 0px;
+  opacity: 0.6;
+}
+.slide-accounts__pass .group-btns__showss .showss-button-prev img,
+.slide-accounts__pass .group-btns__showss .showss-button-next img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: scale-down;
+     object-fit: scale-down;
+}
+.slide-accounts__pass .group-btns__showss .showss-button-prev:hover, .slide-accounts__pass .group-btns__showss .showss-button-prev:focus,
+.slide-accounts__pass .group-btns__showss .showss-button-next:hover,
+.slide-accounts__pass .group-btns__showss .showss-button-next:focus {
+  -webkit-transform: scale(1.2);
+          transform: scale(1.2);
+  opacity: 1;
+}
+.slide-accounts__pass .group-btns__showss .showss-button-next {
+  margin-left: 10px;
+}
+.slide-accounts__pass .group-btns__showss .showss-button-next img {
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+.slide-accounts__pass .swiper-pagination {
+  position: relative;
+  bottom: 0px;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  margin-top: 95px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+.slide-accounts__pass .swiper-pagination .swiper-pagination-bullet,
+.slide-accounts__pass .slick-dots > li {
+  margin: 0px !important;
+  width: 65px;
+  height: 4px;
+  border-radius: 0px;
+  border: 0px;
+  background-color: rgba(255, 255, 255, 0.5);
+  opacity: 1;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+}
+.slide-accounts__pass .swiper-pagination .swiper-pagination-bullet:not(:last-child),
+.slide-accounts__pass .slick-dots > li:not(:last-child) {
+  margin-right: 10px !important;
+}
+.slide-accounts__pass .swiper-pagination .swiper-pagination-bullet-active,
+.slide-accounts__pass .slick-dots > li.slick-active,
+.slide-accounts__pass .slick-dots > li.slick-active > button {
+  background-color: #FFFFFF;
+  height: 6px;
+}
+.slide-accounts__pass .slick-dots > li > button {
+  width: 100%;
+  height: 100%;
+  border-radius: 0;
+  -webkit-border-radius: 0;
+}
+.slide-accounts__pass .slick-list {
+  padding-bottom: 95px;
+}
+.list-right__accounts li {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.items-right__accounts {
+  color: #FFFFFF;
+}
+.items-right__accounts p {
+  margin-bottom: 5px;
+}
+.items-right__accounts .btn-blues__alls {
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Lato-Regular";
+  min-height: 50px;
+}
+
+.list-right__accounts li {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 5px;
+}
+.list-right__accounts li:before {
+  content: "";
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 5px;
+  min-width: 5px;
+  height: 5px;
+  background-color: #FFFFFF;
+  border-radius: 1000px;
+  margin-right: 5px;
+  -webkit-transform: translateY(8px);
+          transform: translateY(8px);
+}
+
+.text-register__confirms {
+  color: #A1AFC2;
+}
+
+.btn-lost__pass {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0px;
+  background-color: transparent;
+  border: 0px;
+  color: #5D7596;
+}

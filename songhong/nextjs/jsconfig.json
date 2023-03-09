@@ -1,0 +1,26 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "jsx": "react",
+      "paths": {     
+        "@redux/*" : ["redux/*"],   
+        "@redux_state/*": ["redux/state/*"],
+        "@constants/*": ["constants/*"],
+        "@global_redux/*": ["redux/reducer/global/*"], 
+        "@articles_redux/*" : ["redux/reducer/articles/*"],        
+        "@components/*": ["components/*"],  
+        "@header/*": ["components/header/*"],
+        "@footer/*": ["components/footer/*"],
+        "@templates/*": ["components/templates/*"],
+        "@home_widgets/*": ["components/home-widgets/*"],
+        "@js_dir/*": ["assets/js/*"],
+        "@css_dir/*": ["assets/css/*"],
+        "@plugins_dir/*": ["assets/plugins/*"],
+        "@js_utils/*": ["assets/js/utils/*"],
+        "@images_dir/*": ["assets/images/*"],
+        "@lib/*": ["lib/*"],
+        "@styles/*": ["styles/*"]         
+      },
+      "checkJs": true
+    }
+}

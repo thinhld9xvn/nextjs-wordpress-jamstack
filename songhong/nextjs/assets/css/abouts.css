@@ -1,0 +1,117 @@
+.a {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  height: 1px;
+  padding-top: 100%;
+}
+.a img {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+/* :not(:last-child) */
+/* :nth-child(1n+0) */
+.banners-tops__abouts {
+  padding-top: 125px;
+  padding-bottom: 320px;
+  background: url(/static/images/bg-abouts-tops.png) no-repeat center;
+  background-size: cover;
+}
+.banners-tops__abouts .btn-oranges__alls {
+  padding: 10px 35px;
+  font-family: "LexendDeca-Medium";
+}
+
+.items-sevice__abouts:nth-child(2n+2) .row > [class^=col]:nth-child(1) {
+  -webkit-box-ordinal-group: 3;
+      -ms-flex-order: 2;
+          order: 2;
+}
+.items-sevice__abouts .row {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.items-sevice__abouts .img-sevices__abouts img {
+  width: 100%;
+}
+.items-sevice__abouts .names-sevices__abouts {
+  color: #072641;
+}
+.items-sevice__abouts .names-sevices__abouts:hover, .items-sevice__abouts .names-sevices__abouts:focus {
+  color: #F59E0B;
+}
+
+.btn-sevices__abouts {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #62646A;
+  font-size: 17px;
+}
+.btn-sevices__abouts:after {
+  content: "";
+  width: 53px;
+  height: 49px;
+  background: url(/static/images/after-btn-abouts.png) no-repeat center;
+  background-size: contain;
+  z-index: -1;
+  -webkit-transform: translate(-25px);
+          transform: translate(-25px);
+}
+.btn-sevices__abouts i {
+  margin-left: 5px;
+}
+
+.parameter-abouts__sevices {
+  background-color: #FFB93E;
+}
+
+.parameter-abouts__sevices {
+  padding: 35px 0px;
+}
+
+.items-abouts__parameter {
+  text-align: center;
+}
+
+.experts-abouts__us {
+  padding: 100px 0px;
+  text-align: center;
+  background-color: #303441;
+  color: #FFFFFF;
+}
+.experts-abouts__us .text-experts__abouts {
+  max-width: 585px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.experts-abouts__us .videos-experts__abouts {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  height: 1px;
+  padding-top: 63%;
+}
+.experts-abouts__us .videos-experts__abouts iframe {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}

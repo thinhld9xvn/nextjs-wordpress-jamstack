@@ -1,0 +1,59 @@
+.a {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  height: 1px;
+  padding-top: 100%;
+}
+.a img {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+/* :not(:last-child) */
+/* :nth-child(1n+0) */
+.content-price__nenkin {
+  background-color: #F6F8FA;
+  padding-bottom: 100px;
+}
+
+.tables-prices__nenkin table {
+  border-collapse: collapse;
+  width: 100%;
+}
+.tables-prices__nenkin table tr:first-child {
+  background-color: #0246AB;
+  text-align: center;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  font-size: 15px;
+  font-family: "Lato-Bold";
+}
+.tables-prices__nenkin table tr:nth-child(2) {
+  background-color: rgba(220, 223, 228, 0.2);
+}
+.tables-prices__nenkin table tr:nth-child(2) td {
+  text-align: center;
+  color: #5D7596 !important;
+  text-transform: uppercase;
+  font-family: "Lato-Bold";
+}
+.tables-prices__nenkin table tr td:nth-child(1) {
+  text-align: center;
+}
+.tables-prices__nenkin table tr td:nth-child(3) {
+  text-align: center;
+  color: #0246AB;
+}
+.tables-prices__nenkin table td {
+  border: 1px solid #DCDFE4;
+  padding: 15px;
+  font-size: 14px;
+}
